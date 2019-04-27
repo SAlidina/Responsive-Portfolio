@@ -242,6 +242,3 @@ input[type=submit] {
     #main-container {padding-top: 0;}
     #logo, .work, .auth-image {width: 100%;}
 }
-#train {
-    width: 170%;
-}
